@@ -4,8 +4,9 @@
         xmlns:gap = "http://phonegap.com/ns/1.0"
 		id="com.game.eskillsgame"
 		version="0.0.1">
-	<name>eskillsgame</name>
+	<name> Nadine O'Boyle's eskills memory game</name>
 		<gap:platform name="android" />
+<description> This eskills game was developed by Nadine O'Boyle for ITGirls 2014!</description>
 		<gap:platform name="ios" />
 		<preference name="orientation" value="portrait" />
 		<preference name="fullscreen" value="true" />
